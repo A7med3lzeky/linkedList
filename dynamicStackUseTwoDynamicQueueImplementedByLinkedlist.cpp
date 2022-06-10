@@ -1,12 +1,4 @@
 ﻿/*program for using two dynamic queues to serve as dynamic stack.
-* team members:
-* 1 ahmed adel ahmed elrefae. (security)
-* 2 ahmed taher salah.		  (security)
-* 3 asmaa alaa abdelmohsen.   (security)
-* 4 khaled waleed kamal.	  (security)
-* 5 ahmed elmetwally elzeky.  (security)
-* 6 mohammad khaled omara.	  (networking)
-*/
 #include <iostream>
 #include <conio.h>
 
